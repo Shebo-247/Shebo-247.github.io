@@ -1,0 +1,12 @@
+{
+    "name": "shouaib_mohamed_portfolio",
+    "short_name": "shouaib_mohamed_portfolio",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Shouaib Mohamed's Portfolio showcasing projects, skills, and experience.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": []
+}
